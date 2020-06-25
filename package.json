@@ -1,0 +1,24 @@
+{
+  "name": "com.fangh.piratetoolchest",
+  "displayName": "Pirate ToolChest",
+  "version": "2.0",
+  "unity": "2019.1",
+  "description": "This is my personal toolbox",
+  "keywords": [
+    "Pirate",
+    "ToolChest",
+    "Chest",
+    "Tool",
+    "Box",
+    "ToolBox",
+    "Utility",
+    "Tools",
+    "Utilities"
+  ],
+  "category": "Tools",
+  "dependencies": { "com.unity.textmeshpro": "2.0.0" },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Thomas-6freedom/PirateToolChest.git"
+  }
+}
