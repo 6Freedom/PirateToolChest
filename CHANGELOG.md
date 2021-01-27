@@ -5,6 +5,15 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
 
+## [2.1.3] - 2021-01-27
+### Remove
+- Removed files about CloudConfigManager
+- Removed LogCatWindow because Unity has a plugin for that now
+### Added
+- Added a assembly definition to link the TextMeshPro Dependencie 
+### Changed
+- change (again) the dependencie from Unity.TextMeshPro to com.unity.textmeshpro because it wouldn't build
+
 ## [2.1.2] - 2021-01-27
 ### Changed
 - change the dependencie from com.unity.textmeshpro to Unity.TextMeshPro because it wouldn't build
