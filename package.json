@@ -16,9 +16,9 @@
     "Utilities"
   ],
   "category": "Tools",
-  "dependencies": { "com.unity.textmeshpro": "2.0.0" },
+  "dependencies": { "Unity.TextMeshPro": "2.0.0" },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Thomas-6freedom/PirateToolChest.git"
+    "url": "https://github.com/6Freedom/PirateToolChest.git"
   }
 }
